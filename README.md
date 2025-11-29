@@ -2,6 +2,7 @@ This is a minimal, C++ cross-platform library for writing
 real-time games that run in a terminal in text mode.
 
 ![](screenshot.png)
+![](screenshot2.png)
 
 # Features
 
